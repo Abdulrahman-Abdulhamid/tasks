@@ -12,6 +12,7 @@ code {
         monospace;
 }
 
-.name {
+.name,
+.hello-world {
     color: violet;
 }
